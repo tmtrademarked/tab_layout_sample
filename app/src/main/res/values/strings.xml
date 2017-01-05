@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TabSample</string>
+    <string name="nav_frag_1">Red</string>
+    <string name="nav_frag_2">Green</string>
+    <string name="nav_frag_3">Blue</string>
+</resources>
